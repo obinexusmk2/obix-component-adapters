@@ -1,5 +1,5 @@
 {
-  "name": "@obinexusltd/obix-component-runtime",
+  "name": "@obinexusltd/obix-component-adapter",
   "version": "0.1.0",
   "description": "OBIX Heart/Soul UI/UX SDK — 30 WCAG 2.1 AA accessible components with FUD policy enforcement and jfix.scss design system",
   "type": "module",
